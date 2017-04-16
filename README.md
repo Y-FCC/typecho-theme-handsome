@@ -5,7 +5,7 @@
 [在线预览 Preview ](https://www.ihewro.com/archives/489/) | [使用文档](https://handsome.ihewro.com/#//) | [English Documentation]() 
 
 
-![handsome](http://ww4.sinaimg.cn/large/a15b4afegy1feovqa9pchj20rs0e40um)
+![handsome](https://www.ihewro.com/usr/uploads/2017/04/808204957.png)
 
 ## 贡献 Contributing
 
