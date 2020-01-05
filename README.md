@@ -13,18 +13,10 @@
 
 All kinds of contributions (enhancements, new features, documentation & code improvements, issues & bugs reporting) are welcome.
 
-## 许可证 License 
+## Donate
 
-所有代码根据[GPL-3.0协议](https://github.com/ihewro/typecho-theme-handsome/blob/master/LICENSE)。换句话说，你可以使用或者修改代码，但是你不能用于商业目的。
+[![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/26_Yellow_PayPal_Pill_Button.png)](paypal.me/wangxiaopeng0)  
 
-All code licensed under the [GPL-3.0 License](https://github.com/ihewro/typecho-theme-handsome/blob/master/LICENSE). In other words you can use or modify the code freely but you can not use it for business purposes.
+## License
 
-## [开发日志 Changelog](https://handsome.ihewro.com/#/changelog) 
-
-[![author](https://img.shields.io/badge/author-Hewro-blue.svg?style=flat-square)](http://www.ihewro.xyz) 
-[![GitHub issues](https://img.shields.io/github/issues/ihewro/typecho-theme-handsome.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/issues)
-[![GitHub forks](https://img.shields.io/github/forks/ihewro/typecho-theme-handsome.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/network)
-[![GitHub stars](https://img.shields.io/github/stars/ihewro/typecho-theme-handsome.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/stargazers)
-[![helpdocs](https://img.shields.io/badge/Docs-HELP-red.svg?style=flat-square)](https://github.com/ihewro/typecho-theme-handsome/wiki/%E4%B8%AD%E6%96%87%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3) 
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg?style=flat-square)](https://raw.githubusercontent.com/ihewro/typecho-theme-handsome/master/LICENSE)
-![qqgroup](https://img.shields.io/badge/QQ群-611102614-red.svg?style=flat-square)
+Unless otherwise stated, everything on this GitHub is released under the [MIT](https://mit-license.org) license.
