@@ -3,9 +3,9 @@
  * 扁平化设计。如同少年，迎风而立。
  * 
  * @package handsome 
- * @author 友人C
+ * @author Cyril
  * @version 2.1.2
- * @link https://github.com/ihewro/typecho-theme-handsome/
+ * @link https://github.com/ikym/typecho-theme-handsome/
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
