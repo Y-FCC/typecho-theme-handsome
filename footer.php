@@ -3,9 +3,9 @@
     <div class="wrapper b-t bg-light">
       <span class="pull-right hidden-xs">
       <?php $this->options->BottomInfo(); ?>
-      Power by <a data-no-instant target="blank" href="http://www.typecho.org">Typecho</a> | Theme <a data-no-instant target="blank" href="https://github.com/ihewro/typecho-theme-handsome/">handsome</a> <a onclick="gotoTop()" class="m-l-sm text-muted" data-toggle="tooltip" data-placement="auto left" title="返回顶部"><i class="iconfont icon-longarrowup"></i></a>
+      Power by <a data-no-instant target="blank" href="http://www.typecho.org">Typecho</a> | Theme <a data-no-instant target="blank" href="https://github.com/ikym/typecho-theme-handsome/">handsome</a> <a onclick="gotoTop()" class="m-l-sm text-muted" data-toggle="tooltip" data-placement="auto left" title="返回顶部"><i class="iconfont icon-longarrowup"></i></a>
       </span><?php $this->options->BottomleftInfo(); ?>
-      &copy; <?php echo date("Y");?> Copyright.
+      Copyright. &copy; <?php echo date("Y");?> 拾柒的部落格
     </div>
   </footer>
   </div><!--end of .app app-header-fixed-->
@@ -83,7 +83,7 @@ $(document).ready(function(){
 <!--页页面布局header-fix结束-->
 
 <!--comments.php 页面必需js-->
-<?php if($this->is('single') & !($this->is('page','cross'))): ?>
+<?php if($this->is('single')): ?>
 <?php if($this->allow('comment')): ?>
 <script type="text/javascript">
 (function() {
