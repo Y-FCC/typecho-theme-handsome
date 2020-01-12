@@ -3,7 +3,7 @@
  * 扁平化设计。如同少年，迎风而立。
  * 
  * @package handsome 
- * @author Cyril
+ * @author Cyril.Wong
  * @version 2.1.2
  * @link https://github.com/ikym/typecho-theme-handsome/
  */
