@@ -341,8 +341,8 @@ input[type=text], textarea {
     margin-bottom: 10px;
     margin-top: 10px;
     font-size: 16px;">感谢您使用 handsome主题&emsp; </span>
-    <span style="margin-bottom:10px;display:block"> 如果您喜欢handsome主题，<a href="https://github.com/ihewro/typecho-theme-handsome/stargazers" style="color: rgb(255, 255, 255); background: rgb(63, 63, 63);">给该项目star一下吧</a>，是我不断更新的动力哦！</span>
-    <span style="margin-bottom:10px;display:block">点击这里 <a href="https://github.com/ihewro/typecho-theme-handsome" target="_blank" style="color:#3384da;font-weight:bold;text-decoration:underline">typecho-theme-handsome</a> 以获得
+    <span style="margin-bottom:10px;display:block"> 如果您喜欢handsome主题，<a href="https://github.com/ikym/typecho-theme-handsome/stargazers" style="color: rgb(255, 255, 255); background: rgb(63, 63, 63);">给该项目star一下吧</a>，是我不断更新的动力哦！</span>
+    <span style="margin-bottom:10px;display:block">点击这里 <a href="https://github.com/ikym/typecho-theme-handsome" target="_blank" style="color:#3384da;font-weight:bold;text-decoration:underline">typecho-theme-handsome</a> 以获得
     <span style="color:#df3827;font-weight:bold;">最新版本支持</span>
     </span>
     <span style="margin-bottom:10px;display:block">
@@ -622,7 +622,7 @@ function showThumbnail($widget){
         return $random;
     }else{//thumb->第一张图片->(随机缩略图)
 
-        if(!empty($widget->fields->thumb)){//thumb字段已经填写了图片地址
+        if(isset($widget->fields->thumb)){//thumb字段已经填写了图片地址
             $ctu = $widget->fields->thumb;
         }else{//thumb值中没有图片地址
 
